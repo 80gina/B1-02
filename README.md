@@ -11,7 +11,9 @@
 
 대응 도구 : 비디오 생성/변환도구(Gemin, Flow), 오디오 대안(Suno), 음성 합성 대안(Vrew)
 
-레시피북_등장_및_소개_영상
+### 레시피북_등장_및_소개_영상
+
+![](https://github.com/80gina/B1-02/blob/main/%5BB1-2%5D%20%EC%B5%9C%EC%A2%85%20%EC%98%81%EC%83%81.mp4)
 
 ---
 
@@ -20,18 +22,23 @@
 
 ## 0. 브랜드 아이덴티티
 
-| 브랜드명 | 할머니 손맛 — 전라도 레시피북
-(부제: 순자 할머니의 40년 손맛 공개) |
-| --- | --- |
-| 타겟 | 20-42대 자취생,직장인, 한식 관심층 |
-| 톤앤매너 | [비주얼] 캔디드, 자연광, 뉴트럴, 지적
-[언어] 전라도 사투리, 해학, 따뜻함
-→ 비주얼과 언어의 대비가 핵심 매력 |
-| USP | 세련된 비주얼 + 구수한 할머니 입담
-“표지는 세련됐는데 펼치면 사투리” |
-| 핵심 메시지 | “40년 손맛을 훔쳐라 - 할머니가 드디어 비법을 털어놨당꼐~” |
-| 광고 목표 | 브랜드 인지 + 구매 전환 |
-| 감정 아크 | 공감 → 웃음(해학) → 신뢰 → 구매 욕구 |
+| 브랜드명 | 할머니 손맛 — 전라도 레시피북(부제: 순자 할머니의 40년 손맛 공개)
+
+| 타겟 | 20-42대 자취생,직장인, 한식 관심층 
+
+| 톤앤매너 | 
+
+[비주얼] 캔디드, 자연광, 뉴트럴, 지적
+
+[언어] 전라도 사투리, 해학, 따뜻함 → 비주얼과 언어의 대비가 핵심 매력
+
+| USP | 세련된 비주얼 + 구수한 할머니 입담 “표지는 세련됐는데 펼치면 사투리” 
+
+| 핵심 메시지 | “40년 손맛을 훔쳐라 - 할머니가 드디어 비법을 털어놨당꼐~” 
+
+| 광고 목표 | 브랜드 인지 + 구매 전환 
+
+| 감정 아크 | 공감 → 웃음(해학) → 신뢰 → 구매 욕구 
 
 
 ## 1. **톤앤매너 정의**
@@ -177,7 +184,7 @@ BGM              잔잔한 어쿠스틱 기타 페이드인
  
 오디오         ElevenLabs  목적: 할머니 목소리 내레이션 생성  전라도 사투리 억양 설정 |
 
-
+| 
 **씬번호          Scene 03 / 내지 공개**
 
 씬 길이          0:06 ~ 0:08 (2초)
@@ -226,6 +233,7 @@ BGM              잔잔한 어쿠스틱 기타 페이드인
 
 유머 포인트      "근데 된장은 꼭 넣어야 혀. 빼면... 나한테 연락하지 마" 
 
+| 
 **씬 번호          Scene 04 / 엔딩 + CTA**
 
 씬 길이          0:08 ~ 0:10 (2초)
@@ -283,17 +291,17 @@ BGM              잔잔한 어쿠스틱 기타 페이드인
 
 **사용 도구**
  
-  이미지 생성    Gemin 목적: 레시피북 내지 클로즈업 생성 실제 레시피북처럼 보이는 타이포그래피·음식 사진 배치--sref scene01 이미지 고정
+이미지 생성    Gemin 목적: 레시피북 내지 클로즈업 생성 실제 레시피북처럼 보이는 타이포그래피·음식 사진 배치--sref scene01 이미지 고정
  
-  비디오 변환    Flow 목적: 페이지 넘기는 손 모션 추가 자연스러운 손가락 움직임 구현
+비디오 변환    Flow 목적: 페이지 넘기는 손 모션 추가 자연스러운 손가락 움직임 구현
  
-  오디오         ElevenLabs 목적: 씬 3 할머니 내레이션 생성 자신만만 + 살짝 투덜대는 톤 | 사용 도구
+오디오         ElevenLabs 목적: 씬 3 할머니 내레이션 생성 자신만만 + 살짝 투덜대는 톤 | 사용 도구
  
-  이미지 생성    재사용 (scene02_cookbook_flatlay.png) 목적: 크레딧 절약 + 수미상관 구조  씬 2 표지 이미지 그대로 활용
+이미지 생성    재사용 (scene02_cookbook_flatlay.png) 목적: 크레딧 절약 + 수미상관 구조  씬 2 표지 이미지 그대로 활용
  
-  비디오 변환    CapCut 목적: 텍스트 레이어 애니메이션 적용 페이드인 순차 등장 효과 Gemin 미사용 (크레딧 절약)
+비디오 변환    CapCut 목적: 텍스트 레이어 애니메이션 적용 페이드인 순차 등장 효과 Gemin 미사용 (크레딧 절약)
  
-  오디오         ElevenLabs 목적: 씬 4 할머니 엔딩 내레이션 따뜻하고 정겨운 톤으로 마무리 
+오디오         ElevenLabs 목적: 씬 4 할머니 엔딩 내레이션 따뜻하고 정겨운 톤으로 마무리 
 
 ### **2.2 씬별 프롬프트 및 스크립트**
 
@@ -302,7 +310,8 @@ BGM              잔잔한 어쿠스틱 기타 페이드인
  
 입력 프롬프트 (원문)
  
-[Gemin]
+[Gemin] 
+
 "A candid, natural photo of an almost empty
 refrigerator interior, only two eggs, wilted
 green onions, and a jar of gochujang visible.
@@ -315,6 +324,7 @@ slightly melancholic mood.
 --ar 16:9 --v 6.1 --style raw"
  
 [Flow]
+
 "Refrigerator door slowly opens from left,
 revealing nearly empty interior,
 soft natural light spills in,
@@ -323,13 +333,15 @@ standing in front,
 candid lifestyle feel, 3 seconds, 24fps"
  
 [Suno AI]
+
 "Soft acoustic guitar, gentle and warm,
 slightly melancholic intro,
 no lyrics, loopable, 30 seconds,
 Korean indie cafe style"
  
 출력 결과 요약   텅 빈 냉장고 + 자연광 캔디드 컷으로 타겟 공감 유발 비주얼 확보 
-                 
+
+| 
 **씬 번호          Scene 02 / 레시피북 등장**
  
 입력 프롬프트 (원문)
@@ -362,7 +374,7 @@ Script        :
  
 출력 결과 요약   흰 시트 위 레시피북 플랫레이 +  손 클로즈업으로 레퍼런스 톤 완벽 재현 
 
-
+| 
 **씬번호          Scene 03 / 내지 공개**              
  
 입력 프롬프트 (원문)
@@ -403,6 +415,7 @@ Script        :
  
 출력 결과 요약   레시피북 내지 클로즈업 + 페이지 넘김 모션으로 레퍼런스 톤 재현 및   레시피 퀄리티 신뢰감 확보 
 
+| 
 **씬 번호          Scene 04 / 엔딩 + CTA**
  
 입력 프롬프트 (원문)
@@ -435,20 +448,23 @@ Script        :
 출력 결과 요약   브랜드명·슬로건·CTA 순차 등장 + 할머니 유머 자막으로 웃으며 기억되는 엔딩 완성 
 
 
-## **제작 순서**
-2. 씬 1 기준 이미지 생성(냉장고 캔디드 컷) → --sref 기준 URL 확보
-3. 씬 2 이미지 생성(레시피북 표지 플랫레이) → --sref scene01 적용
-4. 씬 3 이미지 생성(레시피북 내지 클로즈업)→ --sref scene01 적용
-5. 씬 4 이미지→ --sref scene02 이미지 그대로 사용
-6. 할머니 내레이션 전체 녹음(씬 1~4 스크립트 일괄 생성) → 오디오 퍼스트 원칙 적용
-7. BGM 생성(30초 루프 어쿠스틱)
-8. 씬 1 모션 생성(냉장고 문 열리는 모션)
-9. 씬 3 모션 생성(페이지 넘기는 손 모션)
-10. 씬 2·4 모션 적용(줌인·줌아웃 Ken Burns 효과)
-11. 자막 작업(씬별 유머 자막 + CTA 텍스트) 폰트: Noto Sans KR Bold
-12. 오디오 믹싱 BGM -15dB + 내레이션 덕킹 적용
-13. 최종 컷 편집 및 출력 해상도: 1920x1080 / 24fps , 포맷: MP4 H.264
-14. **사용한 이미지, 영상 및 배경음악**
+## **3. 제작 순서**
+
+1. 씬 1 기준 이미지 생성(냉장고 캔디드 컷) → --sref 기준 URL 확보
+2. 씬 2 이미지 생성(레시피북 표지 플랫레이) → --sref scene01 적용
+3. 씬 3 이미지 생성(레시피북 내지 클로즈업)→ --sref scene01 적용
+4. 씬 4 이미지→ --sref scene02 이미지 그대로 사용
+5. 할머니 내레이션 전체 녹음(씬 1~4 스크립트 일괄 생성) → 오디오 퍼스트 원칙 적용
+6. BGM 생성(30초 루프 어쿠스틱)
+7. 씬 1 모션 생성(냉장고 문 열리는 모션)
+8. 씬 3 모션 생성(페이지 넘기는 손 모션)
+9. 씬 2·4 모션 적용(줌인·줌아웃 Ken Burns 효과)
+10. 자막 작업(씬별 유머 자막 + CTA 텍스트) 폰트: Noto Sans KR Bold
+11. 오디오 믹싱 BGM -15dB + 내레이션 덕킹 적용
+12. 최종 컷 편집 및 출력 해상도: 1920x1080 / 24fps , 포맷: MP4 H.264
+
+ 
+## **4. 사용한 이미지, 영상 및 배경음악**
 
 스토리보드를 바탕으로 씬별 영상을 제작하고,  제미나이에서 만들어진 영상 모두를 Flow에 넣어 홍보 영상을 제작함.
 
@@ -456,40 +472,60 @@ Script        :
 - Flow에서 내레이션과 음악을 포함해서 영상을 제작됨 → 기존의 스토리보드보다 자연스러워 그래도 쓰기로 함
 
 **영상 제작(Gemin)**
+
 1~3번째 영상만 제작함
 
+![](https://drive.google.com/file/d/1GkVYrKEXdr9j3TVuirlnoM48X445NsxL/view?usp=sharing)
+
+![](https://drive.google.com/file/d/1FoNg4wu7GVWnt5j_1c-7v2QwTm_aKI8C/view?usp=sharing)
+
+![](https://drive.google.com/file/d/14XGtL3gWtKoNJhdU8pXJ-vLOBaP9b2S2/view?usp=drive_link)
+
+
+
 **영상 제작(Flow)**
+
 모든 영상과 프롬프트를 넣어 레시피북 홍보 영상을 만듬
 
-레시피북_등장_및_소개_202607121517 (1).mp4 
+![레시피북_등장_및_소개_202607121517 (1).mp4](https://drive.google.com/file/d/1d2lU3SWh6QTT1x_YI3Kfb7QlNQi7cTQR/view?usp=sharing)
+
+![](https://drive.google.com/file/d/1mCaewmJbugGfCM4hCqU3zNcO74JkDPNm/view?usp=sharing)
 
 **배경음악(Suno)**  
 
 Flow에서 적절한 효과음 생성되어 사용 안함
+
 Vrew를 활용해서 넣었더니 퀄러티가 만족스럽지 못함
+![](https://suno.com/s/ScUNkKmWfKnbFLpb)
 
 
+## 보너스1: 립싱크(Lip-sync) 적용
 
-보너스1: 립싱크(Lip-sync) 적용
 인물 발화 장면 1개 이상을 추가하고, 입모양과 대사를 자연스럽게 맞춘다.
 
+링크 : ![할머니_손맛_전라도_레시피북_영상](https://drive.google.com/file/d/1hhs-Ww2VbwhDcFQBpXkDOR_XUtY7FTSd/view?usp=sharing)
 
-링크 : 할머니_손맛_전라도_레시피북_영상
-링크 : 할머니_손맛_전라도_레시피북_영상2
+링크 : ![할머니_손맛_전라도_레시피북_영상2](https://drive.google.com/file/d/1FsSVLuqLGeFW2z3dNt_93NOAe3Lj_TpM/view?usp=sharing)
 
 
-보너스 2 – 동일 스토리보드, 다른 도구로 재제작
+## 보너스 2 – 동일 스토리보드, 다른 도구로 재제작
+
 이미지 또는 비디오 생성 파트를 다른 도구로 바꿔 동일 씬 1~2개를 재제작한다.
-![](첫번째_Gemin.mp4)
-![](첫번째_Flow.mp4)
-![](세번째씬_Gemin.mp4)
-![](세번째씬_FLow.mp4)
+
+![](https://github.com/80gina/B1-02/blob/main/%EC%B2%AB%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4)
+
+![](https://github.com/80gina/B1-02/blob/main/%EC%B2%AB%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4)
+
+![](https://github.com/80gina/B1-02/blob/main/%EC%84%B8%EB%B2%88%EC%A7%B8%EC%94%AC_Gemin.mp4)
+
+![](https://github.com/80gina/B1-02/blob/main/%EC%84%B8%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4)
 
 
-보너스 3 – 플랫폼별 화면 비율 버전 제작 :동일 스토리보드로 화면 비율 버전 2개 이상을 제작한다.
-예: 16:9(유튜브) + 9:16(숏폼/릴스 표준, 1080x1920) + 1:1(피드용)
-[9:16] 숏폼/릴스 표준 ![](숏폼.mp4)
-[1:1] 피드용 ![](정방형.mp4)
+## 보너스 3 – 플랫폼별 화면 비율 버전 제작 :동일 스토리보드로 화면 비율 버전 2개 이상을 제작한다.
+
+[9:16] 숏폼/릴스 표준 ![](https://github.com/80gina/B1-02/blob/main/%EC%88%8F%EC%B8%A0.mp4)
+
+[1:1] 피드용 ![](https://github.com/80gina/B1-02/blob/main/%EC%A0%95%EB%B0%A9%ED%98%95.mp4)
 
 
 
