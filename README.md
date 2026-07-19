@@ -13,7 +13,7 @@
 
 ### 레시피북_등장_및_소개_영상
 
-![](https://github.com/80gina/B1-02/blob/main/%5BB1-2%5D%20%EC%B5%9C%EC%A2%85%20%EC%98%81%EC%83%81.mp4)
+URL : https://github.com/80gina/B1-02/blob/main/%5BB1-2%5D%20%EC%B5%9C%EC%A2%85%20%EC%98%81%EC%83%81.mp4
 
 ---
 
@@ -475,11 +475,11 @@ Script        :
 
 1~3번째 영상만 제작함
 
-![](https://drive.google.com/file/d/1GkVYrKEXdr9j3TVuirlnoM48X445NsxL/view?usp=sharing)
+URL : https://drive.google.com/file/d/1GkVYrKEXdr9j3TVuirlnoM48X445NsxL/view?usp=sharing
 
-![](https://drive.google.com/file/d/1FoNg4wu7GVWnt5j_1c-7v2QwTm_aKI8C/view?usp=sharing)
+URL : https://drive.google.com/file/d/1FoNg4wu7GVWnt5j_1c-7v2QwTm_aKI8C/view?usp=sharing
 
-![](https://drive.google.com/file/d/14XGtL3gWtKoNJhdU8pXJ-vLOBaP9b2S2/view?usp=drive_link)
+URL : https://drive.google.com/file/d/14XGtL3gWtKoNJhdU8pXJ-vLOBaP9b2S2/view?usp=drive_link
 
 
 
@@ -487,45 +487,45 @@ Script        :
 
 모든 영상과 프롬프트를 넣어 레시피북 홍보 영상을 만듬
 
-![레시피북_등장_및_소개_202607121517 (1).mp4](https://drive.google.com/file/d/1d2lU3SWh6QTT1x_YI3Kfb7QlNQi7cTQR/view?usp=sharing)
+URL : https://drive.google.com/file/d/1d2lU3SWh6QTT1x_YI3Kfb7QlNQi7cTQR/view?usp=sharing
 
-![](https://drive.google.com/file/d/1mCaewmJbugGfCM4hCqU3zNcO74JkDPNm/view?usp=sharing)
+URL : https://drive.google.com/file/d/1mCaewmJbugGfCM4hCqU3zNcO74JkDPNm/view?usp=sharing
 
 **배경음악(Suno)**  
 
 Flow에서 적절한 효과음 생성되어 사용 안함
 
 Vrew를 활용해서 넣었더니 퀄러티가 만족스럽지 못함
-![](https://suno.com/s/ScUNkKmWfKnbFLpb)
+URL : https://suno.com/s/ScUNkKmWfKnbFLpb
 
 
 ## 보너스1: 립싱크(Lip-sync) 적용
 
 인물 발화 장면 1개 이상을 추가하고, 입모양과 대사를 자연스럽게 맞춘다.
 
-링크 : ![할머니_손맛_전라도_레시피북_영상](https://drive.google.com/file/d/1hhs-Ww2VbwhDcFQBpXkDOR_XUtY7FTSd/view?usp=sharing)
+URL : https://drive.google.com/file/d/1hhs-Ww2VbwhDcFQBpXkDOR_XUtY7FTSd/view?usp=sharing
 
-링크 : ![할머니_손맛_전라도_레시피북_영상2](https://drive.google.com/file/d/1FsSVLuqLGeFW2z3dNt_93NOAe3Lj_TpM/view?usp=sharing)
+URL : https://drive.google.com/file/d/1FsSVLuqLGeFW2z3dNt_93NOAe3Lj_TpM/view?usp=sharing
 
 
 ## 보너스 2 – 동일 스토리보드, 다른 도구로 재제작
 
 이미지 또는 비디오 생성 파트를 다른 도구로 바꿔 동일 씬 1~2개를 재제작한다.
 
-![](https://github.com/80gina/B1-02/blob/main/%EC%B2%AB%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4)
+URL : https://github.com/80gina/B1-02/blob/main/%EC%B2%AB%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4
 
-![](https://github.com/80gina/B1-02/blob/main/%EC%B2%AB%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4)
+URL : https://github.com/80gina/B1-02/blob/main/%EC%B2%AB%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4
 
-![](https://github.com/80gina/B1-02/blob/main/%EC%84%B8%EB%B2%88%EC%A7%B8%EC%94%AC_Gemin.mp4)
+URL : https://github.com/80gina/B1-02/blob/main/%EC%84%B8%EB%B2%88%EC%A7%B8%EC%94%AC_Gemin.mp4
 
-![](https://github.com/80gina/B1-02/blob/main/%EC%84%B8%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4)
+URL : https://github.com/80gina/B1-02/blob/main/%EC%84%B8%EB%B2%88%EC%A7%B8%EC%94%AC_Flow.mp4
 
 
 ## 보너스 3 – 플랫폼별 화면 비율 버전 제작 :동일 스토리보드로 화면 비율 버전 2개 이상을 제작한다.
 
-[9:16] 숏폼/릴스 표준 ![](https://github.com/80gina/B1-02/blob/main/%EC%88%8F%EC%B8%A0.mp4)
+[9:16] 숏폼/릴스 표준 URL : https://github.com/80gina/B1-02/blob/main/%EC%88%8F%EC%B8%A0.mp4
 
-[1:1] 피드용 ![](https://github.com/80gina/B1-02/blob/main/%EC%A0%95%EB%B0%A9%ED%98%95.mp4)
+[1:1] 피드용 URL : https://github.com/80gina/B1-02/blob/main/%EC%A0%95%EB%B0%A9%ED%98%95.mp4
 
 
 
