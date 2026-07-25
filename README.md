@@ -20,7 +20,7 @@
 
 ## 레시피북_등장_및_소개_영상
 
-URL :  [](https://drive.google.com/file/d/1WWFPXIfk3hn_A-L5kf5LNHDD8TvsfmC_/view?usp=sharing)
+ [URL : ](https://drive.google.com/file/d/1WWFPXIfk3hn_A-L5kf5LNHDD8TvsfmC_/view?usp=sharing)
 
 ---
 
