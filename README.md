@@ -20,7 +20,7 @@
 
 ## 레시피북_등장_및_소개_영상
 
-URL : https://github.com/80gina/B1-02/blob/main/%5BB1-2%5D%20%EC%B5%9C%EC%A2%85%20%EC%98%81%EC%83%81.mp4
+URL :  [](https://drive.google.com/file/d/1WWFPXIfk3hn_A-L5kf5LNHDD8TvsfmC_/view?usp=sharing)
 
 ---
 
